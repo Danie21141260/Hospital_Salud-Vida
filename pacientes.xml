@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pacientes>
+    <paciente>
+        <id>1</id>
+        <nombre>Juan Pérez</nombre>
+        <edad>45</edad>
+        <diagnostico>Hipertensión</diagnostico>
+        <direccion>Calle 123, Ciudad</direccion>
+        <contacto_emergencias>555-1234</contacto_emergencias>
+        <nombre_familiar_cargo>María Pérez</nombre_familiar_cargo>
+    </paciente>
+    <paciente>
+        <id>2</id>
+        <nombre>Laura Martínez</nombre>
+        <edad>50</edad>
+        <diagnostico>Diabetes tipo 2</diagnostico>
+        <direccion>Avenida 456, Ciudad</direccion>
+        <contacto_emergencias>555-5678</contacto_emergencias>
+        <nombre_familiar_cargo>Carlos Martínez</nombre_familiar_cargo>
+    </paciente>
+    <paciente>
+        <id>3</id>
+        <nombre>Pedro Gómez</nombre>
+        <edad>40</edad>
+        <diagnostico>Asma</diagnostico>
+        <direccion>Calle 789, Ciudad</direccion>
+        <contacto_emergencias>555-9012</contacto_emergencias>
+        <nombre_familiar_cargo>Ana Gómez</nombre_familiar_cargo>
+    </paciente>
+    <paciente>
+        <id>4</id>
+        <nombre>Rosa Sánchez</nombre>
+        <edad>60</edad>
+        <diagnostico>Artritis</diagnostico>
+        <direccion>Calle 101, Ciudad</direccion>
+        <contacto_emergencias>555-3456</contacto_emergencias>
+        <nombre_familiar_cargo>Javier Sánchez</nombre_familiar_cargo>
+    </paciente>
+    <paciente>
+        <id>5</id>
+        <nombre>José Ramírez</nombre>
+        <edad>70</edad>
+        <diagnostico>Enfermedad pulmonar obstructiva crónica</diagnostico>
+        <direccion>Calle 202, Ciudad</direccion>
+        <contacto_emergencias>555-7890</contacto_emergencias>
+        <nombre_familiar_cargo>Luisa Ramírez</nombre_familiar_cargo>
+    </paciente>
+    <paciente>
+        <id>6</id>
+        <nombre>Elena Torres</nombre>
+        <edad>45</edad>
+        <diagnostico>Depresión</diagnostico>
+        <direccion>Calle 303, Ciudad</direccion>
+        <contacto_emergencias>555-2345</contacto_emergencias>
+        <nombre_familiar_cargo>Marco Torres</nombre_familiar_cargo>
+    </paciente>
+    <paciente>
+        <id>7</id>
+        <nombre>Andrés Díaz</nombre>
+        <edad>35</edad>
+        <diagnostico>Colesterol alto</diagnostico>
+        <direccion>Calle 404, Ciudad</direccion>
+        <contacto_emergencias>555-6789</contacto_emergencias>
+        <nombre_familiar_cargo>Patricia Díaz</nombre_familiar_cargo>
+    </paciente>
+    <paciente>
+        <id>8</id>
+        <nombre>Victoria López</nombre>
+        <edad>28</edad>
+        <diagnostico>Gastritis</diagnostico>
+        <direccion>Calle 505, Ciudad</direccion>
+        <contacto_emergencias>555-0123</contacto_emergencias>
+        <nombre_familiar_cargo>Roberto López</nombre_familiar_cargo>
+    </paciente>
+    <paciente>
+        <id>9</id>
+        <nombre>Fernando Morales</nombre>
+        <edad>55</edad>
+        <diagnostico>Insuficiencia renal</diagnostico>
+        <direccion>Calle 606, Ciudad</direccion>
+        <contacto_emergencias>555-4567</contacto_emergencias>
+        <nombre_familiar_cargo>Clara Morales</nombre_familiar_cargo>
+    </paciente>
+    <paciente>
+        <id>10</id>
+        <nombre>Patricia Ruiz</nombre>
+        <edad>65</edad>
+        <diagnostico>Osteoporosis</diagnostico>
+        <direccion>Calle 707, Ciudad</direccion>
+        <contacto_emergencias>555-8910</contacto_emergencias>
+        <nombre_familiar_cargo>Manuel Ruiz</nombre_familiar_cargo>
+    </paciente>
+    <paciente>
+        <id>11</id>
+        <nombre>Raúl Jiménez</nombre>
+        <edad>32</edad>
+        <diagnostico>Ansiedad</diagnostico>
+        <direccion>Calle 808, Ciudad</direccion>
+        <contacto_emergencias>555-3457</contacto_emergencias>
+        <nombre_familiar_cargo>Lucía Jiménez</nombre_familiar_cargo>
+    </paciente>
+    <paciente>
+        <id>12</id>
+        <nombre>Silvia Castro</nombre>
+        <edad>48</edad>
+        <diagnostico>Hipotiroidismo</diagnostico>
+        <direccion>Calle 909, Ciudad</direccion>
+        <contacto_emergencias>555-6780</contacto_emergencias>
+        <nombre_familiar_cargo>Eduardo Castro</nombre_familiar_cargo>
+    </paciente>
+    <paciente>
+        <id>13</id>
+        <nombre>Hugo Ortega</nombre>
+        <edad>38</edad>
+        <diagnostico>Diabetes tipo 1</diagnostico>
+        <direccion>Calle 1000, Ciudad</direccion>
+        <contacto_emergencias>555-1235</contacto_emergencias>
+        <nombre_familiar_cargo>Gloria Ortega</nombre_familiar_cargo>
+    </paciente>
+    <paciente>
+        <id>14</id>
+        <nombre>Ángel Salazar</nombre>
+        <edad>29</edad>
+        <diagnostico>Asma severa</diagnostico>
+        <direccion>Calle 1111, Ciudad</direccion>
+        <contacto_emergencias>555-5679</contacto_emergencias>
+        <nombre_familiar_cargo>Susana Salazar</nombre_familiar_cargo>
+    </paciente>
+    <paciente>
+        <id>15</id>
+        <nombre>Gabriela Peña</nombre>
+        <edad>54</edad>
+        <diagnostico>Artritis reumatoide</diagnostico>
+        <direccion>Calle 1212, Ciudad</direccion>
+        <contacto_emergencias>555-9013</contacto_emergencias>
+        <nombre_familiar_cargo>Jorge Peña</nombre_familiar_cargo>
+    </paciente>
+</pacientes>

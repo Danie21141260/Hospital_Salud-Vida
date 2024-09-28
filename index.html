@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta CHARSET="utf-8">
+    <title>Hospital "Salud y Vida"</title>
+    <link REL="stylesheet" TYPE="text/css" HREF="hospital.css">
+</head>
+<body onload="cargarPacientes();">
+    <table WIDTH="800" BORDER="2" ALIGN="center">
+        <tbody>
+            <tr>
+                <td><img SRC="imagen.jpg" WIDTH="120"></td>
+                <td><h1>Hospital "Salud y Vida"</h1></td>
+            </tr>
+            <tr>
+                <td COLSPAN="2">
+                    <h3>Ubicación: "Av. Salud, No. 123, Ciudad Médica" | Teléfono: 555-1234-5678</h3>
+                </td>
+            </tr>
+            <tr>
+                <td COLSPAN="2">
+                    <div>
+                        <button onclick="mostrarPacientes()">Ver Pacientes</button>
+                        <button onclick="mostrarMedicamentos()">Ver Medicamentos</button>
+                        <input TYPE="text" id="buscarID" placeholder="Buscar por ID">
+                        <button onclick="buscarPorID(document.getElementById('buscarID').value)">Buscar</button>
+                    </div>
+                    <div id="resultados"></div>
+                </td>
+            </tr>
+            <tr>
+                <td COLSPAN="2">
+                    <h6>Elaborado por el equipo de tecnología hospitalaria de Landa De Matamoros Qro.</h6>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <script SRC="Estructura.js"></script>
+    <script SRC="pacientes.xml"></script>
+    <script SRC="medicamentos.jsonp"></script>
+</body>
+</html>
+<strong></strong>

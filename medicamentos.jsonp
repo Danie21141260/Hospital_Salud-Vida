@@ -1,0 +1,164 @@
+misdatos({
+  "medicamentos": [
+    {
+      "codigo_medicamento": "MED001",
+      "ID": 101,
+      "nombre": "Paracetamol",
+      "contenido_neto": "500 mg",
+      "via_administracion": "Oral",
+      "forma": "Tableta"
+    },
+    {
+      "codigo_medicamento": "MED002",
+      "ID": 102,
+      "nombre": "Ibuprofeno",
+      "contenido_neto": "400 mg",
+      "via_administracion": "Oral",
+      "forma": "Capsula"
+    },
+    {
+      "codigo_medicamento": "MED003",
+      "ID": 103,
+      "nombre": "Amoxicilina",
+      "contenido_neto": "250 mg",
+      "via_administracion": "Oral",
+      "forma": "Jarabe"
+    },
+    {
+      "codigo_medicamento": "MED004",
+      "ID": 104,
+      "nombre": "Diclofenaco",
+      "contenido_neto": "75 mg",
+      "via_administracion": "Intramuscular",
+      "forma": "Inyectable"
+    },
+    {
+      "codigo_medicamento": "MED005",
+      "ID": 105,
+      "nombre": "Loratadina",
+      "contenido_neto": "10 mg",
+      "via_administracion": "Oral",
+      "forma": "Tableta"
+    },
+    {
+      "codigo_medicamento": "MED006",
+      "ID": 106,
+      "nombre": "Ranitidina",
+      "contenido_neto": "150 mg",
+      "via_administracion": "Oral",
+      "forma": "Tableta"
+    },
+    {
+      "codigo_medicamento": "MED007",
+      "ID": 107,
+      "nombre": "Azitromicina",
+      "contenido_neto": "500 mg",
+      "via_administracion": "Oral",
+      "forma": "Capsula"
+    },
+    {
+      "codigo_medicamento": "MED008",
+      "ID": 108,
+      "nombre": "Omeprazol",
+      "contenido_neto": "20 mg",
+      "via_administracion": "Oral",
+      "forma": "Capsula"
+    },
+    {
+      "codigo_medicamento": "MED009",
+      "ID": 109,
+      "nombre": "Metformina",
+      "contenido_neto": "850 mg",
+      "via_administracion": "Oral",
+      "forma": "Tableta"
+    },
+    {
+      "codigo_medicamento": "MED010",
+      "ID": 110,
+      "nombre": "Enalapril",
+      "contenido_neto": "10 mg",
+      "via_administracion": "Oral",
+      "forma": "Tableta"
+    },
+    {
+      "codigo_medicamento": "MED011",
+      "ID": 111,
+      "nombre": "Salbutamol",
+      "contenido_neto": "100 mcg/dosis",
+      "via_administracion": "Inhalado",
+      "forma": "Inhalador"
+    },
+    {
+      "codigo_medicamento": "MED012",
+      "ID": 112,
+      "nombre": "Metoclopramida",
+      "contenido_neto": "10 mg",
+      "via_administracion": "Oral",
+      "forma": "Tableta"
+    },
+    {
+      "codigo_medicamento": "MED013",
+      "ID": 113,
+      "nombre": "Aspirina",
+      "contenido_neto": "500 mg",
+      "via_administracion": "Oral",
+      "forma": "Tableta"
+    },
+    {
+      "codigo_medicamento": "MED014",
+      "ID": 114,
+      "nombre": "Clonazepam",
+      "contenido_neto": "2 mg",
+      "via_administracion": "Oral",
+      "forma": "Tableta"
+    },
+    {
+      "codigo_medicamento": "MED015",
+      "ID": 115,
+      "nombre": "Furosemida",
+      "contenido_neto": "40 mg",
+      "via_administracion": "Oral",
+      "forma": "Tableta"
+    },
+    {
+      "codigo_medicamento": "MED016",
+      "ID": 116,
+      "nombre": "Ketorolaco",
+      "contenido_neto": "10 mg",
+      "via_administracion": "Oral",
+      "forma": "Tableta"
+    },
+    {
+      "codigo_medicamento": "MED017",
+      "ID": 117,
+      "nombre": "Clindamicina",
+      "contenido_neto": "300 mg",
+      "via_administracion": "Oral",
+      "forma": "Capsula"
+    },
+    {
+      "codigo_medicamento": "MED018",
+      "ID": 118,
+      "nombre": "Naproxeno",
+      "contenido_neto": "550 mg",
+      "via_administracion": "Oral",
+      "forma": "Tableta"
+    },
+    {
+      "codigo_medicamento": "MED019",
+      "ID": 119,
+      "nombre": "Prednisona",
+      "contenido_neto": "50 mg",
+      "via_administracion": "Oral",
+      "forma": "Tableta"
+    },
+    {
+      "codigo_medicamento": "MED020",
+      "ID": 120,
+      "nombre": "Cefalexina",
+      "contenido_neto": "500 mg",
+      "via_administracion": "Oral",
+      "forma": "Capsula"
+    }
+  ]
+});
